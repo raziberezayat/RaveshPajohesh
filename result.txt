@@ -1,0 +1,58 @@
+[
+    {
+        "groupName": "MaryamPeydar",
+        "assignedTopic": "انواع ارائه و ملزومات آن"
+    },
+    {
+        "groupName": "ParsaGolestaniAli",
+        "assignedTopic": "ابزاهای تقلب/مشابهت یاب"
+    },
+    {
+        "groupName": "Nazanin",
+        "assignedTopic": "روش نوشتن پروپوزال"
+    },
+    {
+        "groupName": "MohammadMatin",
+        "assignedTopic": "نکات قابل توجه قبل از ارائه"
+    },
+    {
+        "groupName": "Parsa",
+        "assignedTopic": "ابزار های هوش مصنوعی تولید کننده"
+    },
+    {
+        "groupName": "EhsanKhb",
+        "assignedTopic": "ابزاهای تقلب/مشابهت یاب"
+    },
+    {
+        "groupName": "Amirali",
+        "assignedTopic": "ابزار های هوش مصنوعی تولید کننده"
+    },
+    {
+        "groupName": "Ali",
+        "assignedTopic": "نکات قابل توجه در حین ارائه"
+    },
+    {
+        "groupName": "Ari",
+        "assignedTopic": "روش ساخت اسلاید مناسب"
+    },
+    {
+        "groupName": "reza",
+        "assignedTopic": "روش ساختار دادن به مطالب"
+    },
+    {
+        "groupName": "ghaem",
+        "assignedTopic": "ابزار های هوش مصنوعی تولید کننده"
+    },
+    {
+        "groupName": "SinaSanjari",
+        "assignedTopic": "ابزار های هوش مصنوعی تولید کننده"
+    },
+    {
+        "groupName": "soheil",
+        "assignedTopic": "ابزار های هوش مصنوعی تولید کننده"
+    },
+    {
+        "groupName": "sami",
+        "assignedTopic": "ابزاهای تقلب/مشابهت یاب"
+    }
+]
